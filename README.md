@@ -1,37 +1,108 @@
-# V2Ray Server Config Archive
+# 📡 ConfigsHub-V2Ray
 
-This repository contains a collection of publicly shared V2Ray server configurations, extracted from open Telegram channels for personal and educational use.
+**Public V2Ray Server Configs Archive — Auto Updated**
 
-## 🤝 Why This Repository?
-
-This project is **open-source**, completely **free**, and built with the goal of helping ordinary people — especially students, researchers, and individuals in restricted regions — to access the open internet more easily for their **daily, academic, and scientific needs**.
-
-We believe in **free flow of information**, equal access to online educational resources, and the right to digital inclusion for everyone.  
-This repository is a small volunteer effort in that direction. 💙
-
-## 🔄 Auto Update
-
-The configs are updated automatically using a Python script that scrapes posts from public Telegram channels.
-
-## 📁 Folder Structure
-
-- `configs/`: Collected config files (timestamped).
-- `seen_hashes.txt`: SHA256 hashes of already-seen posts to avoid duplicates.
-- `counter.txt`: Run counter for versioning.
-- `script.py`: Python script for scraping and saving.
-
-## ⚠️ Disclaimer
-
-This repository is maintained for **educational**, **research**, and **archival** purposes only.  
-We **do not** operate, control, or promote any of the servers listed here. All configurations are publicly available online.  
-**Use at your own discretion and risk.**
+This repository provides a regularly-updated collection of publicly shared **V2Ray server configurations**, including protocols like `vmess`, `vless`, `trojan`, and `shadowsocks (ss)` — extracted from Telegram channels.
 
 ---
 
-### ✨ Contributions
+## ✨ Why this repository?
 
-Feel free to fork the repo, suggest improvements, or automate your own collection system based on this structure.
+This project is completely open-source, created to support:
+
+* Students and researchers in restricted regions
+* Developers needing public test servers
+* Anyone who values **digital freedom and open internet access**
+
+We believe everyone deserves unrestricted access to educational resources and communication tools.
 
 ---
 
-**Stay connected. Stay informed. Stay free.**
+## 🔄 Auto-Updating
+
+The repository is powered by a Python script that automatically:
+
+* Scrapes the [@ConfigsHubPlus](https://t.me/ConfigsHubPlus) Telegram channel
+* Filters out duplicates using SHA256 hashing
+* Saves new, clean configs into categorized `.txt` files
+
+The script is designed to run headlessly and can be hosted via scheduled runners or GitHub Actions.
+
+---
+
+## 📁 Structure
+
+```
+.
+├── all.txt            # All collected config links (deduplicated)
+├── vless.txt          # VLESS protocol configs
+├── vmess.txt          # VMESS protocol configs
+├── trojan.txt         # TROJAN protocol configs
+├── ss.txt             # Shadowsocks (SS) configs
+├── seen_hashes.txt    # Previously seen hashes for avoiding duplicates
+
+```
+
+---
+
+## 🚀 Quick Access to Config Files
+
+> Click the boxes below to copy any config list directly:
+
+### 🔹 VLESS Configs
+
+```
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vless.txt
+```
+
+[Copy VLESS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vless.txt)
+
+### 🔹 VMESS Configs
+
+```
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vmess.txt
+```
+
+[Copy VMESS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vmess.txt)
+
+### 🔹 TROJAN Configs
+
+```
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/trojan.txt
+```
+
+[Copy TROJAN 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/trojan.txt)
+
+### 🔹 Shadowsocks (SS) Configs
+
+```
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/ss.txt
+```
+
+[Copy SS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/ss.txt)
+
+### 🔹 All-in-One
+
+```
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/all.txt
+```
+
+[Copy All Configs 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/all.txt)
+
+---
+
+## 📜 License
+
+MIT License — free to use, fork, and build upon.
+
+> ⚠️ **Disclaimer**: These configurations are scraped from public sources and are shared purely for educational, research, and testing purposes. The repo maintainer has no affiliation with any server provider.
+
+---
+
+## 🤝 Contributions Welcome!
+
+Feel free to fork, open pull requests, or suggest improvements.
+
+---
+
+**Stay connected. Stay informed. Stay free.** 💙
