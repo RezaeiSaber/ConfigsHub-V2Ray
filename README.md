@@ -1,37 +1,82 @@
-# V2Ray Server Config Archive
+# 🌐 V2Ray Server Config Archive
 
-This repository contains a collection of publicly shared V2Ray server configurations, extracted from open Telegram channels for personal and educational use.
+This repository is a **public archive** of free V2Ray server configuration links, extracted from public Telegram channels for **personal, educational, and research purposes**.
 
-## 🤝 Why This Repository?
+We **do not run or promote** any of these servers — all configurations are freely available online and collected automatically.
 
-This project is **open-source**, completely **free**, and built with the goal of helping ordinary people — especially students, researchers, and individuals in restricted regions — to access the open internet more easily for their **daily, academic, and scientific needs**.
+---
 
-We believe in **free flow of information**, equal access to online educational resources, and the right to digital inclusion for everyone.  
-This repository is a small volunteer effort in that direction. 💙
+## 💡 Why This Exists?
 
-## 🔄 Auto Update
+In countries with internet restrictions, researchers, students, and ordinary users often struggle to access educational content.  
+This project is an open-source initiative to help bridge that gap by providing easy access to public server configurations.
 
-The configs are updated automatically using a Python script that scrapes posts from public Telegram channels.
+We believe in:
+- 🌍 Free access to information  
+- 📚 Equal access to educational resources  
+- 🔓 Digital inclusion for everyone  
 
-## 📁 Folder Structure
+---
 
-- `configs/`: Collected config files (timestamped).
-- `seen_hashes.txt`: SHA256 hashes of already-seen posts to avoid duplicates.
-- `counter.txt`: Run counter for versioning.
-- `script.py`: Python script for scraping and saving.
+## 🔄 Auto-Updated
+
+This repository is powered by a Python bot that automatically scrapes Telegram channels and updates these files regularly with **fresh, working configs**.
+
+---
+
+## 📁 File Structure & Direct Links
+
+All configuration links are grouped by protocol and stored in separate `.txt` files.  
+Click any of the following links to **view/download the latest configs** for each protocol:
+
+| Protocol   | Config File Link                                                                 |
+|------------|-----------------------------------------------------------------------------------|
+| 📦 All     | [all.txt](https://github.com/RezaeiSaber/ConfigsHub-V2Ray/blob/main/all.txt)     |
+| 🔹 VMess   | [vmess.txt](https://github.com/RezaeiSaber/ConfigsHub-V2Ray/blob/main/vmess.txt) |
+| 🔹 VLess   | [vless.txt](https://github.com/RezaeiSaber/ConfigsHub-V2Ray/blob/main/vless.txt) |
+| 🟢 Trojan  | [trojan.txt](https://github.com/RezaeiSaber/ConfigsHub-V2Ray/blob/main/trojan.txt)|
+| 🔸 Shadowsocks (SS)  | [ss.txt](https://github.com/RezaeiSaber/ConfigsHub-V2Ray/blob/main/ss.txt) |
+| 🔸 ShadowsocksR (SSR)| [ssr.txt](https://github.com/RezaeiSaber/ConfigsHub-V2Ray/blob/main/ssr.txt) |
+| 🔄 Tuic    | [tuic.txt](https://github.com/RezaeiSaber/ConfigsHub-V2Ray/blob/main/tuic.txt)   |
+| ⚡ Hysteria| [hysteria.txt](https://github.com/RezaeiSaber/ConfigsHub-V2Ray/blob/main/hysteria.txt) |
+
+> 🧪 Each file contains the **raw config links** without extra ads or tracking — ready to import into your client (like v2rayN, v2rayNG, etc.)
+
+---
 
 ## ⚠️ Disclaimer
 
-This repository is maintained for **educational**, **research**, and **archival** purposes only.  
-We **do not** operate, control, or promote any of the servers listed here. All configurations are publicly available online.  
-**Use at your own discretion and risk.**
+- This repo is maintained **only for educational and archival purposes**.
+- We **do not operate or endorse** any of the listed servers.
+- All configurations are **publicly accessible** from open Telegram channels.
+- Use at your **own discretion and risk**.
 
 ---
 
-### ✨ Contributions
+## 🤝 Contribute
 
-Feel free to fork the repo, suggest improvements, or automate your own collection system based on this structure.
+Suggestions, pull requests, or feature ideas are welcome!
+
+Fork the repo and build your own version — whether for learning, experimentation, or deployment.  
+Every contribution matters. 🙌
 
 ---
 
-**Stay connected. Stay informed. Stay free.**
+## 🔧 Tools Used
+
+- Python 🐍
+- Selenium 🤖
+- GitHub Actions (for future automation)
+- Markdown 💅
+
+---
+
+## 🧑‍💻 Maintainer
+
+Made with 💙 by [@RezaeiSaber](https://github.com/RezaeiSaber)
+
+> “Stay connected. Stay informed. Stay free.” 🌍
+
+---
+
+© 2025 MIT License | Open for all
