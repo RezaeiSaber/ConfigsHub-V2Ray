@@ -57,8 +57,11 @@ while len(all_new_links) < max_links_to_find and scrolls < max_scrolls:
     messages = driver.find_elements(By.CLASS_NAME, "tgme_widget_message_text")
     for msg in messages:
         content = msg.text.strip()
-  
-        for link in re.findall(proto_regex, content, flags=re.IGNORECASE):
+
+        for raw_link in re.findall(proto_regex, content, flags=re.IGNORECASE):
+        
+            link = raw_link.split('#')[0]
+
             proto = link.split("://")[0].lower()
             hash_digest = hashlib.sha256(link.encode("utf-8")).hexdigest()
             if hash_digest not in seen_hashes:
