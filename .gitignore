@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Ignore everything except configs folder
+script.py
+seen_hashes.txt
+counter.txt
+
+# Optional: ignore logs, temp files, etc
+*.log
+__pycache__/
+
