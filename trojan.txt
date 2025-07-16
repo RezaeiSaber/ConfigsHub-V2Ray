@@ -63,3 +63,6 @@ trojan://3747000103274291200@43.202.142.243:443?security=tls&type=tcp&sni=humble
 trojan://Aimer@66.81.247.88:2083?security=tls&type=tcp&sni=ameqo.esslh.filegear-sg.me
 trojan://4c7ca962-1b57-4e67-88fe-bdbed579df4d@v3.littlexing.eu.org:10005?security=tls&sni=v3.littlexing.eu.org
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:43396?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn
+trojan://accaabb-abac-aacb-badc-cbbcbcbaaaca@127.0.0.1:2080?security=tls&type=tcp
+trojan://Aimer@108.165.152.67:2053?sni=agepq.ambercc.filegear-sg.me
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id
