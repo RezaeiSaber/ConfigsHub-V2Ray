@@ -9,8 +9,8 @@ import re
 from pathlib import Path
 
 #  Link collection limits
-main_limit = 300
-others_limit = 200
+main_limit = 600
+others_limit = 400
 
 #  Telegram channels
 main_channel = "https://t.me/s/ConfigsHubPlus"
