@@ -21,7 +21,13 @@ other_channels = [
     "https://t.me/s/Here_is_Nowhere",
     "https://t.me/s/sinavm",
     "https://t.me/s/prrofile_purple",
-    "https://t.me/s/mitivpn"
+    "https://t.me/s/mitivpn",
+    'https://t.me/s/v2ray_free_conf',
+    'https://t.me/s/BigSmoke_Config',
+    'https://t.me/s/IP_CF_Config',
+    'https://t.me/s/vless_config',
+    
+    
 ]
 
 #  Setup output folder
