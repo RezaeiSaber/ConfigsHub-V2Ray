@@ -2,8 +2,8 @@ name: Auto V2Ray Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every 1 hour (UTC time)
-  workflow_dispatch:      # Allow manual trigger from GitHub UI
+    - cron: '0 * * * *'
+  workflow_dispatch: 
 
 jobs:
   run-scraper:
@@ -30,9 +30,10 @@ jobs:
           sudo ln -s /usr/bin/chromium-browser /usr/bin/google-chrome
         fi
         wget https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.122/linux64/chromedriver-linux64.zip
-        unzip chromedriver-linux64.zip
+        unzip -o chromedriver-linux64.zip
         chmod +x chromedriver-linux64/chromedriver
         sudo mv chromedriver-linux64/chromedriver /usr/local/bin/chromedriver
+        rm chromedriver-linux64.zip  # پاک کردن فایل zip برای صرفه جویی در فضا
 
     - name: Run the scraper
       run: python script.py
@@ -41,7 +42,6 @@ jobs:
       run: |
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
-        git add .
+        git add output/*
         git commit -m "🔁 Auto update configs $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-        git pull --rebase origin main
         git push
