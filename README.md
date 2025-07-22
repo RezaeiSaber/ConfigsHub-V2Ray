@@ -53,7 +53,7 @@ The script is designed to run headlessly and can be hosted via scheduled runners
 ### 🔹 All-in-One
 
 ```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/all.txt
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/all.txt
 ```
 
 [Copy All Configs 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/all.txt)
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/all.txt
 ### 🔹 VLESS Configs
 
 ```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vless.txt
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/vless.txt
 ```
 
 [Copy VLESS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vless.txt)
@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vless.txt
 ### 🔹 VMESS Configs
 
 ```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vmess.txt
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/vmess.txt
 ```
 
 [Copy VMESS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/vmess.txt)
@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vmess.txt
 ### 🔹 TROJAN Configs
 
 ```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/trojan.txt
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/trojan.txt
 ```
 
 [Copy TROJAN 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/trojan.txt)
@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/trojan.txt
 ### 🔹 Shadowsocks (SS) Configs
 
 ```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/ss.txt
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/ss.txt
 ```
 
 [Copy SS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/ss.txt)
