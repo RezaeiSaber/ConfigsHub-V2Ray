@@ -22,7 +22,7 @@ We believe everyone deserves unrestricted access to educational resources and co
 
 The repository is powered by a Python script that automatically:
 
-* Scrapes the [@ConfigsHubPlus](https://t.me/ConfigsHubPlus) Telegram channel
+* Scrapes Multiple Telegram channels that contains v2ray configs
 * Filters out duplicates using SHA256 hashing
 * Saves new, clean configs into categorized `.txt` files
 
