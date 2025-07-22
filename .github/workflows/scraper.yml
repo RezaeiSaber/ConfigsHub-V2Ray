@@ -2,8 +2,8 @@ name: Auto V2Ray Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every 1 hour (UTC)
-  workflow_dispatch:  # Manual trigger
+    - cron: '0 * * * *'  # Every 1 hour (UTC time)
+  workflow_dispatch:      # Allow manual trigger from GitHub UI
 
 jobs:
   run-scraper:
@@ -25,8 +25,10 @@ jobs:
     - name: Setup Chrome and chromedriver
       run: |
         sudo apt-get update
-        sudo apt-get install -y chromium-browser
-        sudo ln -s /usr/bin/chromium-browser /usr/bin/google-chrome
+        sudo apt-get install -y chromium-browser unzip wget
+        if [ ! -f /usr/bin/google-chrome ]; then
+          sudo ln -s /usr/bin/chromium-browser /usr/bin/google-chrome
+        fi
         wget https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.122/linux64/chromedriver-linux64.zip
         unzip chromedriver-linux64.zip
         chmod +x chromedriver-linux64/chromedriver
@@ -39,6 +41,6 @@ jobs:
       run: |
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
-        git add output/*.txt
+        git add .
         git commit -m "🔁 Auto update configs $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
         git push
