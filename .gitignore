@@ -208,7 +208,7 @@ __marimo__/
 
 
 # Ignore everything except configs folder
-script.py
+
 seen_hashes.txt
 counter.txt
 
