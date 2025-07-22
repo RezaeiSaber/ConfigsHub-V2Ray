@@ -8,11 +8,11 @@ import hashlib
 import re
 from pathlib import Path
 
-# 📌 Link limits (customizable)
+#  Link limits
 main_limit = 300
 others_limit = 200
 
-# 📍 Main and other Telegram channels
+#  Main and other Telegram channels
 main_channel = "https://t.me/s/ConfigsHubPlus"
 other_channels = [
     "https://t.me/s/vpnfreak",
@@ -25,7 +25,7 @@ other_channels = [
 ]
 
 
-output_folder = Path(".")
+output_folder = Path("output")
 output_folder.mkdir(exist_ok=True)
 
 # 📃 Track seen hashes to avoid duplicates
@@ -88,7 +88,7 @@ for channel in other_channels:
 
 driver.quit()
 all_links = main_links + other_links
-print(f"📊 Total collected: {len(all_links)} links")
+print(f" Total collected: {len(all_links)} links")
 
 if all_links:
     all_txt_path = output_folder / "all.txt"
