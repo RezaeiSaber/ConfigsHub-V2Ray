@@ -53,42 +53,42 @@ The script is designed to run headlessly and can be hosted via scheduled runners
 ### 🔹 All-in-One
 
 ```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/all.txt
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/all_Saber_ConfigsHub-V2Ray.txt
 ```
 
-[Copy All Configs 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/all.txt)
+[Copy All Configs 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/all_Saber_ConfigsHub-V2Ray.txt)
 
 ### 🔹 VLESS Configs
 
 ```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/vless.txt
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/vless_Saber_ConfigsHub-V2Ray.txt
 ```
 
-[Copy VLESS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vless.txt)
+[Copy VLESS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vless_Saber_ConfigsHub-V2Ray.txt)
 
 ### 🔹 VMESS Configs
 
 ```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/vmess.txt
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/vmess_Saber_ConfigsHub-V2Ray.txt
 ```
 
-[Copy VMESS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/vmess.txt)
+[Copy VMESS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/vmess_Saber_ConfigsHub-V2Ray.txt)
 
 ### 🔹 TROJAN Configs
 
 ```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/trojan.txt
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/trojan_Saber_ConfigsHub-V2Ray.txt
 ```
 
-[Copy TROJAN 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/trojan.txt)
+[Copy TROJAN 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/trojan_Saber_ConfigsHub-V2Ray.txt)
 
 ### 🔹 Shadowsocks (SS) Configs
 
 ```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/ss.txt
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/ss_Saber_ConfigsHub-V2Ray.txt
 ```
 
-[Copy SS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/ss.txt)
+[Copy SS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/ss_Saber_ConfigsHub-V2Ray.txt)
 
 
 ---
