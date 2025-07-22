@@ -49,6 +49,15 @@ The script is designed to run headlessly and can be hosted via scheduled runners
 
 > Click the boxes below to copy any config list directly:
 
+
+### 🔹 All-in-One
+
+```
+https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/all.txt
+```
+
+[Copy All Configs 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/all.txt)
+
 ### 🔹 VLESS Configs
 
 ```
@@ -63,7 +72,7 @@ https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vless.txt
 https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vmess.txt
 ```
 
-[Copy VMESS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vmess.txt)
+[Copy VMESS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/vmess.txt)
 
 ### 🔹 TROJAN Configs
 
@@ -71,7 +80,7 @@ https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/vmess.txt
 https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/trojan.txt
 ```
 
-[Copy TROJAN 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/trojan.txt)
+[Copy TROJAN 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/trojan.txt)
 
 ### 🔹 Shadowsocks (SS) Configs
 
@@ -79,15 +88,8 @@ https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/trojan.txt
 https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/ss.txt
 ```
 
-[Copy SS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/ss.txt)
+[Copy SS 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/output/ss.txt)
 
-### 🔹 All-in-One
-
-```
-https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/all.txt
-```
-
-[Copy All Configs 🔗](https://raw.githubusercontent.com/RezaeiSaber/ConfigsHub-V2Ray/main/all.txt)
 
 ---
 
