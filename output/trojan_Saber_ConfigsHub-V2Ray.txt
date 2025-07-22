@@ -36,3 +36,5 @@ trojan://NISHIKUITAN111@190.93.245.32:443?#[🇨🇷]t.me/ConfigsHub
 trojan://auto@104.20.20.213:443?security=tls&type=tcp&sni=b96ef9ae.trojanfree-76s.pages.dev#[🇺🇸]t.me/ConfigsHub
 trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://3763495894587285504@settling-terrier.goat627.mom:443?allowInsecure=1&sni=settling-terrier.goat627.mom#[🇩🇪]t.me/ConfigsHub
+trojan://NISHIKUITAN111@188.114.96.86:443?#[🇨🇦]t.me/ConfigsHub
+trojan://acbaabc-bcaa-baca-bdac-caaaccbbbcab@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
