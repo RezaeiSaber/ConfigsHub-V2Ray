@@ -38,3 +38,7 @@ trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=
 trojan://3763495894587285504@settling-terrier.goat627.mom:443?allowInsecure=1&sni=settling-terrier.goat627.mom#[🇩🇪]t.me/ConfigsHub
 trojan://NISHIKUITAN111@188.114.96.86:443?#[🇨🇦]t.me/ConfigsHub
 trojan://acbaabc-bcaa-baca-bdac-caaaccbbbcab@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
+trojan://blue2024@104.17.139.53:443?sni=td.promote.icu#[🇨🇦]t.me/ConfigsHub
+trojan://bpb-trojan@104.17.68.111:443?sni=bpb.my79801.com#[🇨🇦]t.me/ConfigsHub
+trojan://blue2024@190.93.244.61:443?sni=td.promote.icu#[🇨🇷]t.me/ConfigsHub
+trojan://0028109a-37ed-4ded-b858-e566388a904c@34.222.52.204:20230?security=tls&sni=421421.xyz#[🇺🇸]t.me/ConfigsHub
