@@ -25,7 +25,7 @@ other_channels = [
 ]
 
 
-output_folder = Path("output")
+output_folder = Path(".")
 output_folder.mkdir(exist_ok=True)
 
 # 📃 Track seen hashes to avoid duplicates
