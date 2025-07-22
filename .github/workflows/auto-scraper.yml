@@ -2,7 +2,7 @@ name: Auto V2Ray Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *' 
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
