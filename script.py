@@ -26,6 +26,9 @@ other_channels = [
     'https://t.me/s/BigSmoke_Config',
     'https://t.me/s/IP_CF_Config',
     'https://t.me/s/vless_config',
+    'https://t.me/s/Airdorap_Free',
+    'https://t.me/s/FREECONFIGSPLUS',
+    
     
     
 ]
