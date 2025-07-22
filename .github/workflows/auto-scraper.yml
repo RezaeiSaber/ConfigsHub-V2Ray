@@ -43,4 +43,5 @@ jobs:
         git config user.email "action@github.com"
         git add .
         git commit -m "🔁 Auto update configs $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+        git pull --rebase origin main
         git push
