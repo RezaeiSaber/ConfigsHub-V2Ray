@@ -8,11 +8,11 @@ import hashlib
 import re
 from pathlib import Path
 
-#  Link limits
+#  Link collection limits
 main_limit = 300
 others_limit = 200
 
-#  Main and other Telegram channels
+#  Telegram channels
 main_channel = "https://t.me/s/ConfigsHubPlus"
 other_channels = [
     "https://t.me/s/vpnfreak",
@@ -24,29 +24,30 @@ other_channels = [
     "https://t.me/s/mitivpn"
 ]
 
-
+#  Setup output folder
 output_folder = Path("output")
 output_folder.mkdir(exist_ok=True)
 
-# 📃 Track seen hashes to avoid duplicates
+#  Load previously seen hashes (to avoid duplicates)
 seen_file = output_folder / "seen_hashes.txt"
+seen_hashes = set()
 if seen_file.exists():
-    with open(seen_file, "w", encoding="utf-8") as f:
+    with open(seen_file, "r", encoding="utf-8") as f:
         seen_hashes = set(line.strip() for line in f if line.strip())
-else:
-    seen_hashes = set()
 
+#  Chrome WebDriver setup
 options = webdriver.ChromeOptions()
 options.add_argument("--headless")
 options.add_argument("--log-level=3")
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
+#  Regex pattern for config links
 protocol_regex = r"(?:vless|vmess|trojan|ss|ssr|tuic|hysteria)://[^\s]+"
 
 
 def scrape_channel(channel_url, max_links):
     driver.get(channel_url)
-    time.sleep(5)
+    time.sleep(4)
     scroll_count = 0
     max_scrolls = 100
     collected_links = []
@@ -65,38 +66,39 @@ def scrape_channel(channel_url, max_links):
                     if len(collected_links) >= max_links:
                         break
 
- 
-        driver.execute_script("window.scrollTo(0, 0);")
-        time.sleep(0.1)
+        # Scroll to bottom to load more
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(0.2)
         scroll_count += 1
 
     return collected_links
 
 
+#  Scrape main and other channels
 main_links = scrape_channel(main_channel, main_limit)
-
 
 other_links = []
 for channel in other_channels:
     if len(other_links) >= others_limit:
         break
     remaining = others_limit - len(other_links)
-    new_links = scrape_channel(channel, remaining)
-    other_links.extend(new_links)
-
+    other_links.extend(scrape_channel(channel, remaining))
 
 driver.quit()
+
+#  Combine and report
 all_links = main_links + other_links
 print(f" Total collected: {len(all_links)} links")
 
+#  Save results
 if all_links:
+    # Save all links
     all_txt_path = output_folder / "all_Saber_ConfigsHub-V2Ray.txt"
     with open(all_txt_path, "a", encoding="utf-8") as f:
         for _, link in all_links:
             f.write(link + "\n")
 
-
+    # Save by protocol
     per_protocol = {}
     for proto, link in all_links:
         per_protocol.setdefault(proto, []).append(link)
@@ -107,7 +109,7 @@ if all_links:
             for link in links:
                 f.write(link + "\n")
 
-
+    # Save seen hashes
     with open(seen_file, "a", encoding="utf-8") as f:
         for _, link in all_links:
             hash_digest = hashlib.sha256(link.encode("utf-8")).hexdigest()
