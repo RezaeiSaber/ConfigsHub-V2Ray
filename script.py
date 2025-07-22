@@ -31,7 +31,7 @@ output_folder.mkdir(exist_ok=True)
 # 📃 Track seen hashes to avoid duplicates
 seen_file = output_folder / "seen_hashes.txt"
 if seen_file.exists():
-    with open(seen_file, "r", encoding="utf-8") as f:
+    with open(seen_file, "w", encoding="utf-8") as f:
         seen_hashes = set(line.strip() for line in f if line.strip())
 else:
     seen_hashes = set()
