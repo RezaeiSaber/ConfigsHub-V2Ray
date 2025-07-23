@@ -1269,3 +1269,10 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.136.104:443?path=%2FycqlKbi40f2kVjZS%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=VNGsUppLY.IP-ddnS.COm#[🇨🇦]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.247.117:443?path=%2FycqlKbi40f2kVjZS%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=VNGsUppLY.IP-ddnS.COm#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVN252ZUFITGhPYWhGZ3dKbFRiRTlu@194.87.45.189:443#%F0%9F%87%AA%F0%9F%87%B8%20Madrid%2C%20MD%2C%20Spain
+vless://859bbb48-98ca-4afd-ad28-987c7cd28119@51.75.155.93:8080?type=tcp&path=%2F&host=fast.ir&headerType=http&security=none#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#[🇷🇺]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.1:8880?security=&type=ws&host=yd.laoyoutiao.link&encryption=none#[🏁]t.me/ConfigsHub
+vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#[🏁]t.me/ConfigsHub
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJUZWxlZ3JhbUB2aXR1cmV5ICBcdUQ4M0NcdURERkFcdUQ4M0NcdURERjhcdUQ4M0NcdURERkFcdUQ4M0NcdURERjgiLAogICJhZGQiOiAiMTUxLjEwMS42Ni4yMTkiLAogICJwb3J0IjogIjgwIiwKICAiaWQiOiAiYzYxZWY0N2UtYmI1OS00Yzg0LTk3ODMtNjY0N2YyMjkxNmEzIiwKICAiYWlkIjogIjAiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ4aHR0cCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiYnBpNi5nbG9iYWwuc3NsLmZhc3RseS5uZXQiLAogICJwYXRoIjogIi8/aG9zdD0yMDQ4VGVsZWdyYW1Adml0dXJleVRlbGVncmFtQHZpdHVyZXkiLAogICJ0bHMiOiAiIiwKICAic25pIjogIiIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIgp9
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.14.125:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.173:989#%F0%9F%87%B5%F0%9F%87%B9%20PT-185.231.233.173%3A989
