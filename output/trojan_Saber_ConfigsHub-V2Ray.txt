@@ -81,3 +81,6 @@ trojan://telegram-id-privatevpns@3.68.1.93:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@3.78.11.46:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.14.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@15.188.36.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+trojan://0EBCBB23-C337-0909-4655-BC85BCDCFC02@dry-snowflake-b29f.vpnetwork3567.workers.dev:443?path=%2F&security=tls&host=dry-snowflake-b29f.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=dry-snowflake-b29f.vpnetwork3567.workers.dev#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.36.93.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-directvpn@3.78.11.46:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
