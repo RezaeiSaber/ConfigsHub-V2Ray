@@ -98,3 +98,4 @@ trojan://telegram-id-privatevpns@15.236.67.13:22222?security=tls&alpn=http/1.1&h
 trojan://Aimer@162.159.44.78:2096?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.215.50.90:6668?allowInsecure=1&sni=baidu.com#[🏁]t.me/ConfigsHub
 trojan://Aimer@104.196.250.34:2087?sni=ngepz.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+trojan://bpb-trojan@104.17.147.22:2053/?type=tcp&security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
