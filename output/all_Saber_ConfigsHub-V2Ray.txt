@@ -1371,3 +1371,11 @@ vless://b06aca36-bcb2-43f1-8d51-f294736ef9fb@finland1.blockmarket.sbs:8443?type=
 vless://bcacaba-baac-caba-bacd-bcaccbabcaab@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?host=zula.ir&security=&type=tcp&encryption=none&headerType=http#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.236.67.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+vless://telegram---V2RAYNGCLOUD---@91.107.254.202:443?security=reality&sni=firebase.googleapis.com&fp=ios&pbk=VaX6bp_MHNDUuqYS7vbyXiw-ptqGCTutnV6K_jYE-3A&sid=54705fe6&spx=/&type=xhttp&encryption=none#[🇩🇪]t.me/ConfigsHub
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?path=%2FuLF6HXZ7986oF7Yg%3Fed&security=&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=VngSupply.Ip-DdNS.com#[🇨🇦]t.me/ConfigsHub
+vless://telegram-id-ArV2ray@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=eDg.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=eDg.SpEeDtEsT2029.CoM#[🇨🇦]t.me/ConfigsHub
+vless://b0dc0687-a93b-48e0-b80c-e7604d3a3f05@configline.fast.hosting-ip.com:80?security=&type=xhttp&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@162.120.94.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram#[🇺🇸]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.198.213:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F#[🇬🇧]t.me/ConfigsHub
+vless://46dbac8b-eaba-4275-940c-819f95d16916@unpkg.com:443?encryption=none&security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
