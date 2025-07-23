@@ -84,3 +84,8 @@ trojan://telegram-id-directvpn@15.188.36.178:22223?security=tls&alpn=http/1.1&he
 trojan://0EBCBB23-C337-0909-4655-BC85BCDCFC02@dry-snowflake-b29f.vpnetwork3567.workers.dev:443?path=%2F&security=tls&host=dry-snowflake-b29f.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=dry-snowflake-b29f.vpnetwork3567.workers.dev#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.93.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@3.78.11.46:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-privatevpns@15.236.28.202:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.236.28.202:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://Aimer@167.68.4.10:2096?allowInsecure=0&sni=amepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
+trojan://NISHIKUITAN111@167.68.11.173:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#[🇺🇸]t.me/ConfigsHub
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#⚜️Telegram:@IP_CF
