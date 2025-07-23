@@ -1066,3 +1066,13 @@ vmess://eyJhZGQiOiJoZXhzZW4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Qi
 trojan://telegram-id-privatevpns@3.68.1.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#⚜️Telegram:@IP_CF
 vmess://eyJhZGQiOiIxNDIuOTMuMjMxLjk1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE1ZDNlYjU3LTUwZTgtOTI1ZC0wZGJlLTYwN2YwZjIxMzc5NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODA3MCIsInBzIjoi2KzZiNuM2YYg2LTZiCDZgti32Lkg2YbYtNuMIHZsZXNzX2NvbmZpZ0AiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://SERVERNETT-SERVERNETT1@bos.lebasnoo.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#[🇨🇦]t.me/ConfigsHub
+vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@139.162.173.22:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.78.11.46:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://f581e3a7-f1d6-4c29-ae3a-abd68426afd3@31.47.51.143:50438?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxODUuMTQyLjUzLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJiYWJmMzRhLTE2ZjUtNGUzOC1hODg1LTczOGZkZmM4ZWFiZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDM1ODUiLCJwcyI6Ilvwn4er8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@167.99.242.2:80?type=ws&path=/@Artemis_Vpn#[🇩🇪]t.me/ConfigsHub
+vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@164.92.179.149:80?type=grpc&mode=gun&serviceName=@Artemis_Vpn#[🇩🇪]t.me/ConfigsHub
+vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@v-01.artemis-vpn.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇩🇪]t.me/ConfigsHub
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=%2F34COh9NCiin5SJMk%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@v-02.artemis-vpn-tl.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇮🇷]t.me/ConfigsHub
