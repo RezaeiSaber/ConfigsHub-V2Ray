@@ -1126,3 +1126,14 @@ vless://bb57d265-b716-4092-bd0a-68f3988db63c@Evay-vpn.fast.hosting-ip.com:80?mod
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://80128acc-ff7f-41fe-af34-62f4108635ca@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fjzkedews&security=tls&encryption=none&host=638880231667527799.madrid-prx-dnraaao.info&type=ws&sni=638880231667527799.madrid-prx-dnraaao.info#[🇨🇦]t.me/ConfigsHub
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?type=tcp&headerType=http&host=speedtest.net#[🇮🇷]t.me/ConfigsHub
+vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=none&type=tcp&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=%2Fazadnet1-706.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=azadnet1-706.pages.dev&fp=randomized&type=ws&sni=azadnet1-706.pages.dev#[🇨🇦]t.me/ConfigsHub
+vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:8080?security=none&type=httpupgrade&path=/&packetEncoding=xudp&encryption=none#[🇬🇧]t.me/ConfigsHub
+vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.uk:80?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:2082?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#[🇬🇧]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2052?security=none&type=ws&packetEncoding=xudp&encryption=none#[🇫🇮]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:2053?security=tls&allowInsecure=1&type=grpc&packetEncoding=xudp&encryption=none#[🇬🇧]t.me/ConfigsHub
+vless://Telegram--SRCVPN@91.107.141.19:3080?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&sid=eb91f5c0&type=grpc&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2096?security=tls&allowInsecure=1&type=ws&path=/&packetEncoding=xudp&encryption=none#[🇬🇧]t.me/ConfigsHub
