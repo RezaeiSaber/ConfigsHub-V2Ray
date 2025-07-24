@@ -118,3 +118,8 @@ trojan://telegram-id-privatevpns@63.178.189.3:22222?security=tls&alpn=http%2F1.1
 trojan://telegram-id-directvpn@18.153.120.71:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-privatevpns@15.236.28.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.178.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.175.139:443/?type=ws&host=cvfbghyu.859886.xyz&path=%2FraChT39pjLFYRA5HdHEIupMZeK&security=tls&sni=CVFBgHyu.859886.XYz&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.16.1:443/?type=ws&host=rrrfvgh.890614.xyz&path=%2FraChT39pjLFYRA5HdHEIupMZeK&security=tls&sni=rrRfvGH.890614.XyZ&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.83.113:443/?type=ws&host=xscdfr.859886.xyz&path=%2FraChT39pjLFYRA5HdHEIupMZeK&security=tls&sni=xscdFR.859886.XyZ&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.96.1:443/?type=grpc&serviceName=raChT39pjLFYRAO6JLn303d&security=tls&sni=rrrffGTy6.852224.xYz&alpn=h2&fp=chrome#[🇨🇦]t.me/ConfigsHub
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=ws&host=xcdvfgt.986986.shop&path=%2FraChT39pjLFYRA5HdHEIupMZeK&security=tls&sni=XCDvfgt.986986.sHOP&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
