@@ -109,3 +109,6 @@ trojan://dac2d4dd-9a4d-4eb0-92a6-028532caed52@fastcup.net:8443?sni=cdn-node-oss-
 trojan://blue2024@108.162.195.155:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.67.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@13.36.14.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-directvpn@3.77.178.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://auto@172.66.46.254:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&type=ws&host=pangpi.pages.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
