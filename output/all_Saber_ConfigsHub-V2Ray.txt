@@ -1575,3 +1575,6 @@ trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.83.113:443/?type=ws&host=xs
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.96.1:443/?type=grpc&serviceName=raChT39pjLFYRAO6JLn303d&security=tls&sni=rrrffGTy6.852224.xYz&alpn=h2&fp=chrome#[🇨🇦]t.me/ConfigsHub
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=ws&host=xcdvfgt.986986.shop&path=%2FraChT39pjLFYRA5HdHEIupMZeK&security=tls&sni=XCDvfgt.986986.sHOP&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTkY0RTNBU0E3bERMaGpGRXFwOVFr@h110vpnde.outlinekeys.net:21712#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#[🇬🇧]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInBvcnQiOiAiODAiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=%2F&security=none&encryption=none&type=ws#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20vless_config%40
