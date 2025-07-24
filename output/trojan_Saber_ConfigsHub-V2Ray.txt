@@ -108,3 +108,4 @@ trojan://dac2d4dd-9a4d-4eb0-92a6-028532caed52@pubg.ac:8443?sni=cdn-node-oss-99.p
 trojan://dac2d4dd-9a4d-4eb0-92a6-028532caed52@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=%2Fprofile%2Ftelegram%40ssrsub&host=cdn-node-oss-99.paofu.de#[🏁]t.me/ConfigsHub
 trojan://blue2024@108.162.195.155:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.67.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-directvpn@13.36.14.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
