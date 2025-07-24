@@ -133,3 +133,5 @@ trojan://telegram-id-v2rayvpnchannel@13.36.146.141:22222?security=tls&sni=trojan
 trojan://f4107ed1e1016be@srwes1-confeg.sbs:56679?type=tcp&security=tls#[🇫🇷]t.me/ConfigsHub
 trojan://4ad0f58ba916627@srwes1-confeg.sbs:56679?type=tcp&security=tls#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.181.218.101:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+trojan://395f14873b1d6b2@srwes1-confeg.sbs:56679?type=tcp&security=tls#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.181.218.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
