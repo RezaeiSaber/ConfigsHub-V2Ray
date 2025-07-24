@@ -123,3 +123,4 @@ trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.16.1:443/?type=ws&host=rrrf
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.83.113:443/?type=ws&host=xscdfr.859886.xyz&path=%2FraChT39pjLFYRA5HdHEIupMZeK&security=tls&sni=xscdFR.859886.XyZ&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.96.1:443/?type=grpc&serviceName=raChT39pjLFYRAO6JLn303d&security=tls&sni=rrrffGTy6.852224.xYz&alpn=h2&fp=chrome#[🇨🇦]t.me/ConfigsHub
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=ws&host=xcdvfgt.986986.shop&path=%2FraChT39pjLFYRA5HdHEIupMZeK&security=tls&sni=XCDvfgt.986986.sHOP&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
+trojan://QwwHvrnN@36.151.192.242:6985?#[🏁]t.me/ConfigsHub
