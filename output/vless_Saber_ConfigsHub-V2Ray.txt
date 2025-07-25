@@ -1298,3 +1298,5 @@ vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=none&e
 vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403?security=none&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
 vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
+vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?path=%2F&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=GgGgr.PaGES.dEV&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#[🇨🇦]t.me/ConfigsHub
