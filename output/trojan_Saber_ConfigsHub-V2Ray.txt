@@ -172,3 +172,4 @@ trojan://NISHIKUITAN111@104.20.191.218:443?allowInsecure=0#[🇺🇸]t.me/Config
 trojan://NISHIKUITAN111@188.244.122.175:443?allowInsecure=0#[🇩🇪]t.me/ConfigsHub
 trojan://NISHIKUITAN111@185.193.29.193:443?allowInsecure=0#[🇫🇷]t.me/ConfigsHub
 trojan://NISHIKUITAN111@103.21.244.107:443?allowInsecure=0#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.188.41.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
