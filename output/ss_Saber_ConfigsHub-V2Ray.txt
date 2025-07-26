@@ -253,3 +253,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@desrv.vmagnum.win:5745
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#—Rose
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@promo6v.bystrivpn.ru:443#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#[🇩🇪]t.me/ConfigsHub
+ss://2022-blake3-aes-256-gcm:X0xJs7Bn4yXxePbQhfsKqc0CiAi5a7tcV6GFPCyYWn4=%3ALiWM+H+SWMrNnYZiOjpmOzWMW0BMYCBrLC57O5Ub+Ns=@212.118.42.181:9260#—Rose
