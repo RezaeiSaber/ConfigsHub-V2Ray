@@ -2178,3 +2178,10 @@ trojan://telegram-id-directvpn@15.188.237.53:22223?security=tls&alpn=http/1.1&he
 vless://d4710a65-4d89-4736-b575-917334dcfffb@wolf540.api-tel.ir:36338?type=tcp&security=reality&fp=chrome&pbk=WRbNyWLu_I0Mfyv6WWf4EwoE2srtKdwlUq2Z-tbJ6j4&flow=xtls-rprx-vision&sni=refersion.com&sid=82bd6d1066#v2box
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.103.123:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-privatevpns@63.178.189.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://d3d478b4-54a5-46e5-ab38-be052101df9c@sg2.78b6f218-a566-9905-b660-cd30c9ea0e03.2c4b5066.the-best-airport.com:443/?type=tcp&security=tls&sni=new.download.the-best-airport.com&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=%2F%3Fed%3D2560&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://d196897a-006e-4454-9478-67b6fd8ce021@apple.rinet.ai:55100?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#[🇩🇪]t.me/ConfigsHub
+vless://d196897a-006e-4454-9478-67b6fd8ce021@auto.lonup.org:55600?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#[🇩🇪]t.me/ConfigsHub
+vless://d196897a-006e-4454-9478-67b6fd8ce021@aiteam.lonup.org:55900?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.77.178.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.183.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
