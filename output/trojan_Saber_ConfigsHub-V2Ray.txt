@@ -191,3 +191,5 @@ trojan://bpb-trojan@104.19.35.14:443/?type=tcp&security=tls&sni=BPB-wOrkeR-pANel
 trojan://bpb-trojan@104.17.253.204:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://trojan@172.67.130.66:443/?type=tcp&security=tls&sni=test-a23.pages.dev&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.134.148.254:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
