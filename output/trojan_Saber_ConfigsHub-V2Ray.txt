@@ -158,3 +158,4 @@ trojan://telegram-id-privatevpns@63.178.189.3:22222?security=tls&alpn=http/1.1&h
 trojan://d3d478b4-54a5-46e5-ab38-be052101df9c@sg2.78b6f218-a566-9905-b660-cd30c9ea0e03.2c4b5066.the-best-airport.com:443/?type=tcp&security=tls&sni=new.download.the-best-airport.com&allowInsecure=1#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.77.178.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.183.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-directvpn@13.39.102.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
