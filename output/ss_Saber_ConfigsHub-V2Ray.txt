@@ -267,3 +267,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZnVCQ253TmNkTXNaQmNJNnRsN3Bj@23.177.185.63:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRd3dSREhLUDdJMm5OZzFZRFBzc0Y5@23.177.185.63:49454#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZGU@de-1.stunnel.cc:8444#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456?type=tcp#[🇹🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456?type=tcp#[🇩🇪]t.me/ConfigsHub
