@@ -9,8 +9,8 @@ import re
 from pathlib import Path
 
 #  Link collection limits
-main_limit = 600
-others_limit = 400
+main_limit = 200
+others_limit = 800
 
 #  Telegram channels
 main_channel = "https://t.me/s/ConfigsHubPlus"
@@ -22,15 +22,29 @@ other_channels = [
     "https://t.me/s/sinavm",
     "https://t.me/s/prrofile_purple",
     "https://t.me/s/mitivpn",
-    'https://t.me/s/v2ray_free_conf',
-    'https://t.me/s/BigSmoke_Config',
-    'https://t.me/s/IP_CF_Config',
-    'https://t.me/s/vless_config',
-    'https://t.me/s/Airdorap_Free',
-    'https://t.me/s/FREECONFIGSPLUS',
-    
-    
-    
+    "https://t.me/s/v2ray_free_conf",
+    "https://t.me/s/BigSmoke_Config",
+    "https://t.me/s/IP_CF_Config",
+    "https://t.me/s/vless_config",
+    "https://t.me/s/Airdorap_Free",
+    "https://t.me/s/FREECONFIGSPLUS",
+    "https://t.me/s/connect_vpnz",
+    "https://t.me/s/unlocked_worlld",
+    "https://t.me/s/frog_v2ray",
+    "https://t.me/s/khosrow_vpn",
+    "https://t.me/s/thefreedomvpn",
+    "https://t.me/s/manisecure_vpn",
+    "https://t.me/s/v2rayng_ghavi",
+    "https://t.me/s/v2ray_hub1",
+    "https://t.me/s/mahsa_net",
+    "https://t.me/s/config2rayfree34",
+    "https://t.me/s/azadnet",
+    "https://t.me/s/godot404",
+    "https://t.me/s/v2sayfree",
+    "https://t.me/s/vpnjey",
+    "https://t.me/s/lx3vpn",
+    "https://t.me/s/iran.i",
+    "https://t.me/s/ispeedtopvpn"
 ]
 
 #  Setup output folder
@@ -56,7 +70,7 @@ protocol_regex = r"(?:vless|vmess|trojan|ss|ssr|tuic|hysteria)://[^\s]+"
 
 def scrape_channel(channel_url, max_links):
     driver.get(channel_url)
-    time.sleep(4)
+    time.sleep(1)
     scroll_count = 0
     max_scrolls = 100
     collected_links = []
