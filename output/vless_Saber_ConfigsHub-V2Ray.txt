@@ -2059,3 +2059,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?path=%2FTelegram%
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.131:80?encryption=none&security=none&type=ws&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2%2F%3Fed%3D2560#[🇮🇷]t.me/ConfigsHub
 vless://e36781b3-3dd9-2ba6-b912-2995b1262150@wwwwww.mohsen.com.it.studentcp.ir:16532?security=reality&type=xhttp&path=%2Findex.html&sni=refersion.com&fp=chrome&pbk=7BDmup4-19PSCfrsZQEco7md0-j-34qWEA-wmDgYuHc&sid=327f5a20cef62bbb#[🏁]t.me/ConfigsHub
 vless://12625b2c-18c6-4010-96de-31323e814112@vip1.proxystore11.news:10358?type=tcp&security=reality&pbk=axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk&fp=chrome&sni=zula.ir&sid=b373044d&spx=%2F&flow=xtls-rprx-vision#PRX11-REALITY-TCP-zxb71u6p4
+vless://e182e0b0-4a1c-4247-a6b9-9ee988922ad6@storee.dearagoon.sbs:80?path=%2Fghost%3Fed%3D2048&security=none&encryption=none&host=mahdicomputer.net&type=ws#[🇨🇦]t.me/ConfigsHub
