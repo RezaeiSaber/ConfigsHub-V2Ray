@@ -213,3 +213,4 @@ trojan://telegram-id-directvpn@13.36.11.189:22223?security=tls&alpn=http/1.1&hea
 trojan://6gZh2JbfhQ@104.248.18.1:1935/?type=tcp&security=tls&sni=x1-germany-digitalocean-v2.devefun.org#%F0%9F%87%A9%F0%9F%87%AADE-104.248.18.1-0304
 trojan://telegram-id-privatevpns@13.37.84.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@63.176.119.129:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+trojan://cabcbaa-baac-abac-dcba-ccbacabcabab@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
