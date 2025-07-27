@@ -216,3 +216,5 @@ trojan://telegram-id-directvpn@63.176.119.129:22223?security=tls&alpn=http/1.1&h
 trojan://cabcbaa-baac-abac-dcba-ccbacabcabab@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#%F0%9F%8D%83%20%F0%9D%90%89%F0%9D%90%8E%C4%AA%F0%9D%90%8D%E2%96%BA%40ManiSecure_vpn
 trojan://telegram-id-directvpn@13.37.84.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+trojan://bpb-trojan@86.38.214.132:443?sni=bpb.my79801.com#[🇹🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.180.162.83:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
