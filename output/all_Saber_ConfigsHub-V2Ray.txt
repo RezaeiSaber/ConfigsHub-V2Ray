@@ -3073,3 +3073,12 @@ trojan://telegram-id-privatevpns@13.36.11.189:22222?security=tls&alpn=http/1.1&h
 vmess://eyJhZGQiOiI4My4xNDkuODQuMTQ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJAdjJ4YXktQHYyeGF5LUB2MnhheS1AdjJ4YXktQHYyeGF5LUB2MnhheS0iLCJpZCI6IjRhYzM5ZThhLTZkNWMtNDhiYi1iMGQwLWY2MzNjODI5MTEzZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU3MDkiLCJwcyI6Itii2YTZhdin2YYg8J+HqfCfh6ogQFYyeGF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuMTlNdExVRGpwZ28zMWJrVnpQYlhV@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20am%20Main%2C%20HE%2C%20Germany
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080
+vless://d5f8faae-5176-49a9-880c-d383bfd93b9a@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:2052?security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
+vless://a48ad350-a0b2-40fa-b205-05c75c2d3c5f@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://6760526a-a1ba-4a10-95e2-7b750bb3124e@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc#[🇷🇺]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.10.31:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://4ffdc80c-65f3-4684-bdb5-951d27867f40@37.156.45.179:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#[🏁]t.me/ConfigsHub
