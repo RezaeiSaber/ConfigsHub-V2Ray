@@ -2278,3 +2278,4 @@ vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.44.231:2053?security=tls&sn
 vless://d10fae09-dd50-4067-90cf-f3e09eb9c206@irtest.xiliservice.lol:80?security=none&encryption=nonkxksksiserType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=&encryption=none&host=ok-by.motorphrotan.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.22.223.108:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://f48c7cd8-42e4-4710-871d-fd9e7b2c49f2@cname.proxystore11.news:2087?path=%2Fprx11&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=prx11.proxystore11.news&fp=chrome&type=ws&sni=prx11.proxystore11.news#[🇨🇦]t.me/ConfigsHub
