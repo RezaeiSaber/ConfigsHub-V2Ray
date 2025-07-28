@@ -222,3 +222,4 @@ trojan://telegram-id-v2rayvpnchannel@18.189.160.76:22222?security=tls&sni=trojan
 trojan://telegram-id-privatevpns@13.36.11.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://wb6368@154.211.8.152:2053?sni=hsdgbuys.pages.dev#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.37.49.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://bacabac-caab-caab-adcb-acbabbbcccaa@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
