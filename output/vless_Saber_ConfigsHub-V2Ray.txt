@@ -2492,3 +2492,8 @@ vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@wolf559.royalmt.life:11065?type=ws&
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@wolf560.royalmt.life:10925?type=ws&security=none#[🇫🇮]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.185.244:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 vless://7f4f7178-7e91-4245-83ae-b97bd96fbef8@91.107.149.166:43692?security=reality&encryption=none&pbk=xathCJgbYrFPzIZmJ-iqUz2UdrbGiyyt098V4Wt4S0E&headerType=&fp=firefox&spx=%2F&type=tcp&sni=eset.com&sid=72741b02#@vip_vpn_2022
+vless://tel%3A%40mahanvpn..@172.67.160.192:2052?path=%2FmAhAnkarNanaNd.kouRdneTpluSedAte.iR%2C%3Fed%3D2560&security=none&encryption=none&host=mAhAnkarNanaNd.kouRdneTpluSedAte.iR.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-fi.panelfreedom.com:20110?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#[🇫🇮]t.me/ConfigsHub
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub
+vless://cd307b67-8180-491c-ad97-5dfd74cb38de@91.99.234.153:2095?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@159.246.55.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram#[🇺🇸]t.me/ConfigsHub

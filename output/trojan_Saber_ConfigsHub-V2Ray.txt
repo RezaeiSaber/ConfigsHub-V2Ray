@@ -243,3 +243,4 @@ trojan://telegram-id-privatevpns@3.124.230.127:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@51.44.225.112:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.17.148.22:8443?path=%2Ftrwidp0ENHXMUNX4bA%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ&security=tls&alpn=http%2F1.1&host=invincible.fafa20.shop&fp=randomized&type=ws&sni=inVinciBLe.fafa20.sHop#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.217.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://bpb-trojan@104.21.75.193:443?security=tls&type=ws&sni=qq.vvii.us.kg&host=qq.vvii.us.kg#[🇨🇦]t.me/ConfigsHub
