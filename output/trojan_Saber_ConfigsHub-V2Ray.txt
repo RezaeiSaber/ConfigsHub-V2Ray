@@ -223,3 +223,5 @@ trojan://telegram-id-privatevpns@13.36.11.189:22222?security=tls&alpn=http/1.1&h
 trojan://wb6368@154.211.8.152:2053?sni=hsdgbuys.pages.dev#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.37.49.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://bacabac-caab-caab-adcb-acbabbbcccaa@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
+trojan://tunnel-astrovpn_official_tr@tr-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=tr-1.stunnel.cc#[🇹🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.188.41.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
