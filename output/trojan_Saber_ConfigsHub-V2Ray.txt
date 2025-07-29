@@ -15,3 +15,5 @@ trojan://NISHIKUITAN111@193.227.99.226:443?#[🇳🇱]t.me/ConfigsHub
 trojan://bpb-trojan@45.8.211.242:443?sni=bpb.my79801.com#[🏁]t.me/ConfigsHub
 trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@43.198.100.51:40091?security=tls&sni=hk12.bilibili.com&type=tcp&allowInsecure=1#[🏁]t.me/ConfigsHub
 trojan://NISHIKUITAN111@92.53.191.173:443?#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@45.159.218.249:443?#[🇩🇪]t.me/ConfigsHub
+trojan://auto@104.20.22.241:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇺🇸]t.me/ConfigsHub
