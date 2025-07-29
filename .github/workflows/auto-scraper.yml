@@ -2,7 +2,7 @@ name: Auto V2Ray Scraper
 
 on:
   schedule:
-    - cron: '*/59 * * * *'
+    - cron: '*/55 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,17 +12,19 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
-    - name: Install Python dependencies
+    - name: Install dependencies
       run: |
         pip install selenium webdriver-manager
 
-    - name: Install Chrome and chromedriver
+    - name: Setup Chrome and chromedriver
       run: |
         sudo apt-get update
         sudo apt-get install -y chromium-browser unzip wget
@@ -33,16 +35,15 @@ jobs:
         unzip -o chromedriver-linux64.zip
         chmod +x chromedriver-linux64/chromedriver
         sudo mv chromedriver-linux64/chromedriver /usr/local/bin/chromedriver
-        rm -rf chromedriver-linux64*
+        rm chromedriver-linux64.zip
 
     - name: Run the scraper
       run: python script.py
 
-    - name: Git commit & push
+    - name: Commit and force push changes
       run: |
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
         git add output/* -f
         git commit -m "Auto update configs $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-        git pull --rebase origin main
-        git push
+        git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
