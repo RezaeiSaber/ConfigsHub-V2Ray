@@ -133,7 +133,7 @@ if all_links:
                 f.write(link + "\n")
 
     # Save seen hashes
-    with open(seen_file, "a", encoding="utf-8") as f:
+    with open(seen_file, "w", encoding="utf-8") as f:
         for _, link in all_links:
             hash_digest = hashlib.sha256(link.encode("utf-8")).hexdigest()
             f.write(hash_digest + "\n")
