@@ -2,7 +2,7 @@ name: Auto V2Ray Scraper
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/59 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,11 +18,11 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Install dependencies
+    - name: Install Python dependencies
       run: |
         pip install selenium webdriver-manager
 
-    - name: Setup Chrome and chromedriver
+    - name: Install Chrome and chromedriver
       run: |
         sudo apt-get update
         sudo apt-get install -y chromium-browser unzip wget
@@ -33,15 +33,16 @@ jobs:
         unzip -o chromedriver-linux64.zip
         chmod +x chromedriver-linux64/chromedriver
         sudo mv chromedriver-linux64/chromedriver /usr/local/bin/chromedriver
-        rm chromedriver-linux64.zip
+        rm -rf chromedriver-linux64*
 
     - name: Run the scraper
       run: python script.py
 
-    - name: Commit and push changes
+    - name: Git commit & push
       run: |
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
         git add output/* -f
         git commit -m "Auto update configs $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+        git pull --rebase origin main
         git push
