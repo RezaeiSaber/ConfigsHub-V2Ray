@@ -9,7 +9,7 @@ import re
 from pathlib import Path
 
 #  Link collection limits
-main_limit = 800
+main_limit = 500
 others_limit = 500
 
 #  Telegram channels
@@ -128,7 +128,7 @@ if all_links:
 
     for proto, links in per_protocol.items():
         proto_path = output_folder / f"{proto}_Saber_ConfigsHub-V2Ray.txt"
-        with open(proto_path, "w", encoding="utf-8") as f:
+        with open(proto_path, "a", encoding="utf-8") as f:
             for link in links:
                 f.write(link + "\n")
 
