@@ -117,7 +117,7 @@ print(f" Total collected: {len(all_links)} links")
 if all_links:
     # Save all links
     all_txt_path = output_folder / "all_Saber_ConfigsHub-V2Ray.txt"
-    with open(all_txt_path, "w", encoding="utf-8") as f:
+    with open(all_txt_path, "a", encoding="utf-8") as f:
         for _, link in all_links:
             f.write(link + "\n")
 
