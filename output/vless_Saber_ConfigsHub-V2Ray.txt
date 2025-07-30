@@ -188,3 +188,4 @@ vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.u
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@141.193.213.10:8080?mode=auto&path=%2Fdashboard%3Fed%3D2560&security=none&encryption=none&host=5am.postpapet.ir&type=xhttp#[🇺🇸]t.me/ConfigsHub
 vless://e1d7c543-0f29-4e5e-a689-2a71d397c7c9@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://fd4af7d5-1c4c-4932-87c2-3c69bc627d25@185.29.223.235:2052?security=none&type=ws&path=%2F#[🇮🇷]t.me/ConfigsHub
+vless://7eac3c03-5204-4d53-833a-a131639f1f5f@gr.globalunlimitedinternet.xyz:1911?mode=gun&security=reality&encryption=none&pbk=VCwUyNFL_IMTZfEKeIUYEuXbPfzCpuUBGNW1kAu2VW4&fp=chrome&spx=%2Fgrpc.reality&type=grpc&serviceName=grpc.reality&sni=www.refersion.com&sid=32aaf12b#[🇩🇪]t.me/ConfigsHub
