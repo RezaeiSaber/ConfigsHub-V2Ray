@@ -36,3 +36,6 @@ trojan://NISHIKUITAN111@216.205.52.233:443?sni=za.ylks.xyz&type=ws&host=za.ylks.
 trojan://NISHIKUITAN111@104.16.202.117:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN111@154.197.121.180:443?allowInsecure=1&ws=1&wspath=%2F#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.192.52.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://blue2024@198.41.223.223:443?allowInsecure=1&sni=ta.promote.icu#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.213.88.177:22222?sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://b341f309-7e2b-45c4-a316-9e23037e3711@sg.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#[🏁]t.me/ConfigsHub
