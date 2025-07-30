@@ -33,3 +33,6 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sn
 trojan://telegram-id-directvpn@18.198.229.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://Lbj6pUya7KVKU7kqPKTb8A@www.speedtest.net:2087?security=tls&sni=jfkgfuiodghlf.ahmadinabaz.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=%2Fspeedtest#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN111@216.205.52.233:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//#[🇺🇸]t.me/ConfigsHub
+trojan://NISHIKUITAN111@104.16.202.117:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@154.197.121.180:443?allowInsecure=1&ws=1&wspath=%2F#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.192.52.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
