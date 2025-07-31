@@ -74,3 +74,4 @@ trojan://NISHIKUITAN111@173.245.49.43:443?allowInsecure=1&ws=1&wspath=%2F#[🇨�
 trojan://NISHIKUITAN111@194.36.55.4:443?allowInsecure=1&ws=1&wspath=%2F#[🇬🇧]t.me/ConfigsHub
 trojan://NISHIKUITAN111@104.26.9.255:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/ConfigsHub
 trojan://f69b7304-9bea-4740-a555-797514012a53@ggbnhju.859885.xyz:443/?type=ws&path=%2FMxtuuhyCwC29auSeckWI9&security=tls&sni=gGbNHjU.859885.xYZ&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
+trojan://bpb-trojan@104.27.1.100:443?allowInsecure=1&sni=bpb.my79801.com#[🏁]t.me/ConfigsHub
