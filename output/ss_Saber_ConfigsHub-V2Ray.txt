@@ -97,3 +97,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177
 ss://YWVzLTI1Ni1nY206NzBhMGI4MTAzMzU2@137.220.142.139:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Djp5v1.lingjfjkm002.com%3Bpath%3D%2Fbezradrqccl%3Bmux%3Dmux%3D4%3B%3B#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.29:38388#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dnewroot2v1.dsjsapp.com%3Bpath%3D%2Fcauejypbltqt%3Bmux%3Dmux%3D4%3B%3B#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#[🇮🇳]t.me/ConfigsHub

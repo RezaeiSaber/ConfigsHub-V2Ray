@@ -69,3 +69,7 @@ trojan://NISHIKUITAN111@103.21.244.240:443?allowInsecure=1&ws=1&wspath=%2F#[🇨
 trojan://telegram-id-directvpn@18.192.52.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://QwwHvrnN@36.151.192.242:27381?allowInsecure=1#[🏁]t.me/ConfigsHub
 trojan://NISHIKUITAN111@172.67.67.8:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@185.159.247.248:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/ConfigsHub
+trojan://NISHIKUITAN111@173.245.49.43:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@194.36.55.4:443?allowInsecure=1&ws=1&wspath=%2F#[🇬🇧]t.me/ConfigsHub
+trojan://NISHIKUITAN111@104.26.9.255:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/ConfigsHub
