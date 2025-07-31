@@ -9,8 +9,8 @@ import re
 from pathlib import Path
 
 #  Link collection limits
-main_limit = 1000
-others_limit = 400
+main_limit = 300
+others_limit = 300
 
 #  Telegram channels
 main_channel = "https://t.me/s/ConfigsHubPlus"
@@ -72,7 +72,7 @@ def scrape_channel(channel_url, max_links):
     driver.get(channel_url)
     time.sleep(0.1)
     scroll_count = 0
-    max_scrolls = 200
+    max_scrolls = 100
     collected_links = []
 
     while len(collected_links) < max_links and scroll_count < max_scrolls:
