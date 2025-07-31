@@ -439,3 +439,12 @@ vless://e4f859b4-82ae-40aa-8d30-26b258e13100@172.67.211.227:2082?path=%2F%40v2ng
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.147.50:443?allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed=2560security=tls#[🇨🇦]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.192.89.212:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.35.48:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
+vless://84bf376e-1443-4374-b0ba-09c71e7fd8b9@23.88.51.39:50821?security=reality&encryption=none&pbk=mBtMxXjIEfkqrobd0ckoPVr7w187g4P-gVIJlwLMQn0&host=speedtest.net&headerType=http&fp=random&spx=%2F&type=tcp&sni=sain.ir&sid=006870ec56e73d#[🇩🇪]t.me/ConfigsHub
+vless://b8b674b7-2a3d-483e-9ec6-014720940889@ir18.drinfoo.com:897?path=%2F&security=tls&encryption=none&type=ws&sni=speedtest.net#[🇮🇷]t.me/ConfigsHub
+vless://a5fa0e7b-e903-4e80-b58f-8eb8b0852772@185.228.236.225:2095?security=none&encryption=none&host=semmm.rezaskate.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://5da34674-9d4c-42c1-bdd1-0a9a2973ea8e@45.136.5.246:8080?type=grpc&serviceName=cactusfree&authority=&security=reality&pbk=vJJOKAgWp7-GkEPeclV6PbyDn-Z2h1WZlyCY4y1xG3s&fp=chrome&sni=journalofbigdata.springeropen.com&sid=3d2f&spx=%2F#[🇹🇷]t.me/ConfigsHub
+vless://94d080f6-82f7-4bbe-acbb-5725bac3fbc5@ir12.drinfoo.com:891?path=%2F&security=tls&encryption=none&type=ws&sni=speedtest.net#[🇮🇷]t.me/ConfigsHub
+vless://94d080f6-82f7-4bbe-acbb-5725bac3fbc5@ir12.drinfoo.com:891?path=%2F&security=tls&encryption=none&type=ws&sni=fast.com#[🇮🇷]t.me/ConfigsHub
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@218.152.197.93:50000?allowInsecure=0&sni=edgetunnel.xiaomayi.nyc.mn&type=ws&host=edgetunnel.xiaomayi.nyc.mn&path=/Telegram🇨🇳#[🏁]t.me/ConfigsHub
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@222.103.6.229:50000?allowInsecure=0&sni=edgetunnel.xiaomayi.nyc.mn&type=ws&host=edgetunnel.xiaomayi.nyc.mn&path=/Telegram🇨🇳#[🏁]t.me/ConfigsHub
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=%2FBIA_CHANEL%40JKVPN&security=tls&alpn=http%2F1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20vless_config%40

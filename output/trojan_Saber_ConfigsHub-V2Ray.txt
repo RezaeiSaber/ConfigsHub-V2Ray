@@ -61,3 +61,9 @@ trojan://1f962f36-f751-40c3-91b3-cb6d2360b450@lmgj.hongxingdl.vip:39593?allowIns
 trojan://NISHIKUITAN111@185.193.30.187:443?allowInsecure=1&ws=1&wspath=%2F#[🇫🇷]t.me/ConfigsHub
 trojan://bpb-trojan@198.41.215.216:443?allowInsecure=1&sni=bpb.my79801.com&ws=1&wspath=%2Ftr%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.54.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://NISHIKUITAN111@104.18.113.114:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@162.159.58.108:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@104.25.56.70:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@104.24.133.61:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@103.21.244.240:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.192.52.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
