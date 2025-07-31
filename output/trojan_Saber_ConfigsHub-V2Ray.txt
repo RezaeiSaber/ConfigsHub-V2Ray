@@ -49,3 +49,4 @@ trojan://NISHIKUITAN111@104.16.194.126:443?allowInsecure=1&ws=1&wspath=%2F#[🇨
 trojan://NISHIKUITAN111@104.27.36.103:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN111@104.24.54.196:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.187.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@63.179.47.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
