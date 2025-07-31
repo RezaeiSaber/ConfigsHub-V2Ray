@@ -532,3 +532,14 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJUZWxlZ3JhbSBAdml0dXJleVx1RDgzQ1x1RERFOVx1
 trojan://telegram-id-directvpn@51.44.54.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 vmess://eyJhZGQiOiJpbm5hLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiaW5uYS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+RifCfhpQgQFYyTkVUX0lSQU4iLCJzY3kiOiJhdXRvIiwic25pIjoiaW5uYS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo2NjE2LCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUgRkkgfCBcdWQ4M2RcdWRkMzQgfCB2bWVzcyB8IEBmcmVlc2hhZG93c29jayB8IDQifQ
+trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#[🇨🇦]t.me/ConfigsHub
+vless://7c8fe7fa-b1cc-4f01-94f4-4d26cd1f637d@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=fars_shekan1.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
+vless://d81a5ac7-b2b9-4445-a364-1c6233ac686f@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@104.16.194.126:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
+vless://d81a5ac7-b2b9-4445-a364-1c6233ac686f@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#[🇳🇱]t.me/ConfigsHub
+vless://MsV2ray-Telegram@104.17.148.22:80?path=%2FMsV2ray%3Fed%3D80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://527b889b-e38b-417f-a009-3566fbd502e4@cdnjs.com:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=DE4-node.amirconfigpanelllll.com&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.73:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNzIuNjcuMjA3LjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Itqp2KfZhtin2YQg2YXYpyDYr9ixINiq2YTar9ix2KfZhSBAQXNha19WcG4g8J+UtyIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.35-5009
