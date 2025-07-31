@@ -9,8 +9,8 @@ import re
 from pathlib import Path
 
 #  Link collection limits
-main_limit = 700
-others_limit = 300
+main_limit = 1000
+others_limit = 400
 
 #  Telegram channels
 main_channel = "https://t.me/s/ConfigsHubPlus"
@@ -133,7 +133,7 @@ if all_links:
                 f.write(link + "\n")
 
     # Save seen hashes
-    with open(seen_file, "a", encoding="utf-8") as f:
+    with open(seen_file, "w", encoding="utf-8") as f:
         for _, link in all_links:
             hash_digest = hashlib.sha256(link.encode("utf-8")).hexdigest()
             f.write(hash_digest + "\n")
