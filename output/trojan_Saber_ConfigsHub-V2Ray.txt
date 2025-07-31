@@ -40,3 +40,4 @@ trojan://blue2024@198.41.223.223:443?allowInsecure=1&sni=ta.promote.icu#[🇨�
 trojan://telegram-id-privatevpns@52.213.88.177:22222?sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://b341f309-7e2b-45c4-a316-9e23037e3711@sg.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.59.70.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@35.181.187.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
