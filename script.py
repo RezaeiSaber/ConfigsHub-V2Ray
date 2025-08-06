@@ -44,7 +44,8 @@ other_channels = [
     "https://t.me/s/vpnjey",
     "https://t.me/s/lx3vpn",
     "https://t.me/s/iran.i",
-    "https://t.me/s/ispeedtopvpn"
+    "https://t.me/s/ispeedtopvpn",
+    'https://t.me/s/MARAMBASHI',
 ]
 
 #  Setup output folder
