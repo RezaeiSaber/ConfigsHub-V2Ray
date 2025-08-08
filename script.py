@@ -13,7 +13,7 @@ main_limit = 800
 others_limit = 500
 
 #  Telegram channels
-main_channel = "https://t.me/s/ConfigsHubPlus"
+main_channel = "https://t.me/s/ConfigsHUB"
 other_channels = [
     "https://t.me/s/vpnfreak",
     "https://t.me/s/mypremium98",
@@ -72,7 +72,7 @@ def scrape_channel(channel_url, max_links):
     driver.get(channel_url)
     time.sleep(0.1)
     scroll_count = 0
-    max_scrolls = 200
+    max_scrolls = 100
     collected_links = []
 
     while len(collected_links) < max_links and scroll_count < max_scrolls:
@@ -133,7 +133,7 @@ if all_links:
                 f.write(link + "\n")
 
     # Save seen hashes
-    with open(seen_file, "a", encoding="utf-8") as f:
+    with open(seen_file, "w", encoding="utf-8") as f:
         for _, link in all_links:
             hash_digest = hashlib.sha256(link.encode("utf-8")).hexdigest()
             f.write(hash_digest + "\n")
