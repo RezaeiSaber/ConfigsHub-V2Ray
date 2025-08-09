@@ -8,8 +8,8 @@ import re
 from pathlib import Path
 
 # Limits
-main_limit = 700
-others_limit = 200
+main_limit = 800
+others_limit = 100
 max_per_file = 1500
 
 # Channels
