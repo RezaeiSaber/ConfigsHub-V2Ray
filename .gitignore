@@ -209,7 +209,7 @@ __marimo__/
 
 # Ignore everything except configs folder
 
-seen_hashes.txt
+#seen_hashes.txt
 counter.txt
 
 # Optional: ignore logs, temp files, etc
