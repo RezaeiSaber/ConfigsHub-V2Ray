@@ -68,7 +68,7 @@ def scrape_channel(channel_url, max_links):
         
         for msg in messages:
        
-            msg_id = msg.get_attribute('outerHTML')[:100]
+            msg_id = msg.get_attribute('outerHTML')[:200]
             
             if msg_id in processed_messages:
                 continue
