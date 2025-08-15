@@ -9,20 +9,14 @@ from pathlib import Path
 
 # Limits
 main_limit = 900
-others_limit = 50
+others_limit = 10
 max_per_file = 1200
 
 # Channels
 main_channel = "https://t.me/s/ConfigsHUB"
 other_channels = [
     "https://t.me/s/vpnfreak",
-    "https://t.me/s/mypremium98",
-    "https://t.me/s/Glysit",
-    "https://t.me/s/Here_is_Nowhere",
-    "https://t.me/s/sinavm",
-    "https://t.me/s/prrofile_purple",
-    "https://t.me/s/mitivpn",
-    "https://t.me/s/v2ray_free_conf",
+
 ]
 
 # Output folder
@@ -56,7 +50,7 @@ def scrape_channel(channel_url, max_links):
     driver.get(channel_url)
     time.sleep(1)
     scroll_count = 0
-    max_scrolls = 200
+    max_scrolls = 500
     collected_links = []
     processed_messages = set()
     
@@ -68,7 +62,7 @@ def scrape_channel(channel_url, max_links):
         
         for msg in messages:
        
-            msg_id = msg.get_attribute('outerHTML')[:200]
+            msg_id = msg.get_attribute('outerHTML')[:400]
             
             if msg_id in processed_messages:
                 continue
