@@ -1,6 +1,6 @@
 # 📡 ConfigsHub-V2Ray
 
-**Public V2Ray Server Configs Archive — Auto Updated**
+**Public V2Ray Server Configs Archive**
 
 This repository provides a regularly-updated collection of publicly shared **V2Ray server configurations**, including protocols like `vmess`, `vless`, `trojan`, and `shadowsocks (ss)` — extracted from Telegram channels.
 
@@ -20,13 +20,11 @@ We believe everyone deserves unrestricted access to educational resources and co
 
 ## 🔄 Auto-Updating
 
-The repository is powered by a Python script that automatically:
+The repository is powered by a Python script that :
 
 * Scrapes Multiple Telegram channels that contains v2ray configs
 * Filters out duplicates using SHA256 hashing
 * Saves new, clean configs into categorized `.txt` files
-
-The script is designed to run headlessly and can be hosted via scheduled runners or GitHub Actions.
 
 ---
 
