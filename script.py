@@ -9,14 +9,16 @@ from pathlib import Path
 
 # Limits
 main_limit = 900
-others_limit = 10
+others_limit = 100
 max_per_file = 1200
 
 # Channels
 main_channel = "https://t.me/s/ConfigsHUB"
 other_channels = [
     "https://t.me/s/vpnfreak",
-
+    'https://t.me/s/sinavm',
+    'https://t.me/s/prrofile_purple',
+    'https://t.me/s/V2RayNgTE',
 ]
 
 # Output folder
