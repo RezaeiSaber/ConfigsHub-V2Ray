@@ -9,8 +9,8 @@ from pathlib import Path
 
 # Limits
 main_limit = 900
-others_limit = 100
-max_per_file = 1200
+others_limit = 99
+max_per_file = 999
 
 # Channels
 main_channel = "https://t.me/s/ConfigsHUB"
